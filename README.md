@@ -5,4 +5,4 @@ Currently, the athan app is in proof of concept, working and ready to be tested.
 
 
 ## Known Issues
-1. App doesn't automatically play for the next day. Band-aid fix - killing the app and relaunching it for the next day fixes it.
+1. App doesn't automatically play for the next day. Band-aid fix - killing the app and relaunching it for the next day fixes it. (FIXED)
