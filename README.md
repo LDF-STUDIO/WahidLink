@@ -4,3 +4,4 @@ This is the 1 stop shop for your islamic needs. You can upload custom athans to 
 Currently, the athan app is in proof of concept, working and ready to be tested. If some functions are not working properly, reach out to me at yahia.hegazy@gmail.com.
 
 
+[Buy me coffee](https://buymeacoffee.com/yahiahegazj)
