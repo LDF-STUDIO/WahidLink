@@ -1,4 +1,8 @@
 # WahidLink App
+
+
+بسم الله الرحمن الرحيم
+
 This is the 1 stop shop for your islamic needs. 
 Try Wahidlink today - Linking you to the only One you need 
 
