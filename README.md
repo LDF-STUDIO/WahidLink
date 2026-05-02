@@ -7,3 +7,29 @@ You can upload custom athans to the app. Acceptable format types are: MP3, WAV, 
 If some functions are not working properly, create a new issue under Issues and follow the template.
 
 To help support this project, you donate through the [Buy me coffee](https://buymeacoffee.com/yahiahegazj)
+
+## Current Features
+- Accurate Qibla Compass
+- Press and hold for a couple of seconds on the salah time to manually adjust the time up to +/- 45 minutes
+- Pressing on the salah time to show time ago or until next salah
+- 30 day calendar
+- Update your Location
+- Upload and choose your favorite Mu'athan
+- Border highlight to denote current or upcoming salah
+
+## Future Features
+- Themes
+    - Timed Dark Mode
+    - Timed Color Mode
+    - Different CSS Themes
+ - Do Not Disturb Jummah
+ - Profiles
+ - Custom Calculation Methods
+ - Madhab (Asr Calculations)
+ - Adjust (Fajr & Isha (High))-Latitude (Angle Based, Middle of the night, 1/7 of the night)
+ - Toggle Switch to show/hide Qiyam prayer (place after Isha)
+ - Hijra Correction to Calendar (-3 <-> +3 days)
+ - Format Time (12/24 hrs)
+ - Create a toggle switch for supplication after Athan
+
+...and more!
