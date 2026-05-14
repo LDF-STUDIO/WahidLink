@@ -20,6 +20,11 @@ To help support this project, you donate through the [Buy me coffee](https://buy
 - Update your Location
 - Upload and choose your favorite Mu'athan
 - Border highlight to denote current or upcoming salah
+- Toggle Switch to show/hide Qiyam prayer placed under Isha 
+- Toggle on/off Iqamah Settings in Upload Modal
+  - Select or Upload Iqamah audio 
+  - Adjustable Iqamah Times
+  - Show Iqamah times under each prayer
 
 ## Future Features
 - Themes
@@ -31,7 +36,6 @@ To help support this project, you donate through the [Buy me coffee](https://buy
  - Custom Calculation Methods
  - Madhab (Asr Calculations)
  - Adjust (Fajr & Isha (High))-Latitude (Angle Based, Middle of the night, 1/7 of the night)
- - Toggle Switch to show/hide Qiyam prayer (place after Isha)
  - Hijra Correction to Calendar (-3 <-> +3 days)
  - Format Time (12/24 hrs)
  - Create a toggle switch for supplication after Athan
