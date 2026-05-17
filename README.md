@@ -18,7 +18,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - Press and hold for a couple of seconds on the salah time to manually adjust the time up to +/- 45 minutes
 - Pressing on the salah time to show time ago or until next salah
 - 30 day calendar
-- Update your Location
+- Update your Location (basic)
 - Upload and choose your favorite Mu'athan
 - Border highlight to denote current or upcoming salah
 - Toggle Switch to show/hide Qiyam prayer placed under Isha 
