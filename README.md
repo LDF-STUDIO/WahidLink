@@ -39,6 +39,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
  - Do Not Disturb Jummah
  - Profiles
  - Hijra Correction to Calendar (-3 <-> +3 days)
+ - Suhoor Alarm
  - Format Time (12/24 hrs)
  - Create a toggle switch for supplication after Athan
 
