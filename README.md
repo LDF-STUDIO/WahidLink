@@ -26,6 +26,10 @@ To help support this project, you can donate through the [Buy me coffee](https:/
   - Select or Upload Iqamah audio 
   - Adjustable Iqamah Times
   - Show Iqamah times under each prayer
+- Custom Calculation Methods
+- Madhab (Asr Calculations)
+- Adjust (Fajr & Isha (High))-Latitude (Angle Based, Middle of the night, 1/7 of the night)
+ 
 
 ## Future Features
 - Themes
@@ -34,9 +38,6 @@ To help support this project, you can donate through the [Buy me coffee](https:/
     - Different CSS Themes
  - Do Not Disturb Jummah
  - Profiles
- - Custom Calculation Methods
- - Madhab (Asr Calculations)
- - Adjust (Fajr & Isha (High))-Latitude (Angle Based, Middle of the night, 1/7 of the night)
  - Hijra Correction to Calendar (-3 <-> +3 days)
  - Format Time (12/24 hrs)
  - Create a toggle switch for supplication after Athan
