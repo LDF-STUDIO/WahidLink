@@ -50,6 +50,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - duaa and dhikr
 - hadith
 - search
+- offline mode for salah times
 
 
 ...and more!
