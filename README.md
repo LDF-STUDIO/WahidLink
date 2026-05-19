@@ -42,5 +42,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
  - Suhoor Alarm
  - Format Time (12/24 hrs)
  - Create a toggle switch for supplication after Athan
+- tutorial 
+
 
 ...and more!
