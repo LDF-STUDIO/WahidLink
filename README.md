@@ -29,6 +29,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - Custom Calculation Methods
 - Madhab (Asr Calculations)
 - Adjust (Fajr & Isha (High))-Latitude (Angle Based, Middle of the night, 1/7 of the night)
+- Do Not Disturb Jummah
  
 
 ## Future Features
@@ -36,7 +37,6 @@ To help support this project, you can donate through the [Buy me coffee](https:/
     - Timed Dark Mode
     - Timed Color Mode
     - Different CSS Themes
- - Do Not Disturb Jummah
  - Profiles
  - Hijra Correction to Calendar (-3 <-> +3 days)
  - Suhoor Alarm
