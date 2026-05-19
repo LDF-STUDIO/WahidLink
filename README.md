@@ -42,7 +42,14 @@ To help support this project, you can donate through the [Buy me coffee](https:/
  - Suhoor Alarm
  - Format Time (12/24 hrs)
  - Create a toggle switch for supplication after Athan
-- tutorial 
+- tutorial
+- Quran & player
+- fortress of the Muslim
+- 99 names of Allah 
+- tafsir
+- duaa and dhikr
+- hadith
+- search
 
 
 ...and more!
