@@ -51,6 +51,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - hadith
 - search
 - offline mode for salah times
+- a variety of notification types
 
 
 ...and more!
