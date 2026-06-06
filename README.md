@@ -57,5 +57,37 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - Language Support (Localization)
 - Override Mute Button
 
-
 ...and more!
+
+
+## Privacy Policy
+
+Privacy Policy for Wahidlink
+Effective Date: June 6, 2026
+
+I provide Wahidlink as a commercial mobile application at no cost, designed to be used as-is. This Privacy Policy informs you regarding my policies with the collection, use, and disclosure of Personal Information for anyone deciding to use my service.
+
+1. Information Collection and Use
+I have engineered Wahidlink with a local-first architecture. I prioritize your privacy by processing all features natively on your device:
+
+- No Server Storage: I do not collect, harvest, transmit, or store any personal data, account information, or location profiles on external servers.
+
+- Local Persistence: Data such as your custom calculation preferences, daily audio tracking metrics, and custom time offsets are stored strictly on your local device storage using encrypted system preferences (AsyncStorage).
+
+2. Device Permissions and Core Frameworks
+To deliver core utility features, the application requires specific native platform permissions. These are processed completely offline:
+
+- Approximate/Fine Location: Required strictly to dynamically compute solar positions and geographic calculation methods relative to your current location. This calculation occurs entirely on-device; location data is never transmitted over the network by my application.
+
+- Background Audio & System Alarms: Utilized to manage background audio triggers and alert systems without introducing background thread blocks.
+
+3. Third-Party Services and Analytics
+- No Analytics/Tracking: I do not include tracking SDKs, marketing wrappers, or third-party analytical frameworks (such as Google Analytics or Firebase Tracking).
+
+- Data Transmission: The app does not transmit your usage behaviors, telemetry metadata, or interaction counters to third-party entities.
+
+4. Changes to This Privacy Policy
+I may update my Privacy Policy from time to time. You are advised to review this page periodically for any changes. I will notify you of any modifications by posting the updated Privacy Policy directly on this page.
+
+5. Contact Me
+If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at: hegazyx@gmail.com
