@@ -86,8 +86,11 @@ To deliver core utility features, the application requires specific native platf
 
 - Data Transmission: The app does not transmit your usage behaviors, telemetry metadata, or interaction counters to third-party entities.
 
-4. Changes to This Privacy Policy
+4. Children’s Privacy
+My services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children. Since all data remains isolated on your physical hardware, no information is accessible to me or any third-party servers.
+
+5. Changes to This Privacy Policy
 I may update my Privacy Policy from time to time. You are advised to review this page periodically for any changes. I will notify you of any modifications by posting the updated Privacy Policy directly on this page.
 
-5. Contact Me
+6. Contact Me
 If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at: hegazyx@gmail.com
