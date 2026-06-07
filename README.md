@@ -38,6 +38,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
     - Timed Dark Mode
     - Timed Color Mode
     - Different CSS Themes
+    - Customize your own theme
  - Profiles
  - Suhoor Alarm
  - Format Time (12/24 hrs)
@@ -49,11 +50,10 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - duaa and dhikr
 - hadith
 - search
-- offline mode for salah times (Location -advanced)
+- offline mode for salah times
 - a variety of notification types
-- Suhoor Alarm
 - Format Time (12/24 hrs)
-- Create a toggle switch for supplication after Athan
+- Supplication after Athan
 - Language Support (Localization)
 - Override Mute Button
 
