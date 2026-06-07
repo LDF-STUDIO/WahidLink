@@ -67,7 +67,7 @@ Effective Date: June 6, 2026
 
 I provide Wahidlink as a commercial mobile application at no cost, designed to be used as-is. This Privacy Policy informs you regarding my policies with the collection, use, and disclosure of Personal Information for anyone deciding to use my service.
 
-1. Information Collection and Use
+### Information Collection and Use
    
 I have engineered Wahidlink with a local-first architecture. I prioritize your privacy by processing all features natively on your device:
 
@@ -75,7 +75,7 @@ I have engineered Wahidlink with a local-first architecture. I prioritize your p
 
 - Local Persistence: Data such as your custom calculation preferences, daily audio tracking metrics, and custom time offsets are stored strictly on your local device storage using encrypted system preferences (AsyncStorage).
 
-2. Device Permissions and Core Frameworks
+### Device Permissions and Core Frameworks
    
 To deliver core utility features, the application requires specific native platform permissions. These are processed completely offline:
 
@@ -83,20 +83,20 @@ To deliver core utility features, the application requires specific native platf
 
 - Background Audio & System Alarms: Utilized to manage background audio triggers and alert systems without introducing background thread blocks.
 
-3. Third-Party Services and Analytics
+### Third-Party Services and Analytics
    
 - No Analytics/Tracking: I do not include tracking SDKs, marketing wrappers, or third-party analytical frameworks (such as Google Analytics or Firebase Tracking).
 
 - Data Transmission: The app does not transmit your usage behaviors, telemetry metadata, or interaction counters to third-party entities.
 
-4. Children’s Privacy
+### Children’s Privacy
    
    My services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children. Since all data remains isolated on your physical hardware, no information is accessible to me or any third-party servers.
 
-6. Changes to This Privacy Policy
+### Changes to This Privacy Policy
    
 I may update my Privacy Policy from time to time. You are advised to review this page periodically for any changes. I will notify you of any modifications by posting the updated Privacy Policy directly on this page.
 
-8. Contact Me
+### Contact Me
    
-If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at: hegazyx@gmail.com
+If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at: wahidlink.app@gmail.com
