@@ -16,17 +16,17 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 ## Current Features
 - Accurate Qibla Compass
 - Press and hold for a couple of seconds on the salah time to manually adjust the time up to +/- 45 minutes
-- Pressing on the salah time to show time ago or until next salah
+- Quickly pressing on the salah time to show time ago or until next salah
 - 30 day calendar
 - Update your Location (basic)
 - Upload and choose your favorite Mu'athan
 - Border highlight to denote current or upcoming salah
-- Toggle Switch to show/hide Qiyam prayer placed under Isha 
-- Toggle on/off Iqamah Settings in Upload Modal
+- Toggle Switch to show/hide Qiyam prayer
+- Toggle on/off Iqamah Settings in Upload Menu
   - Select or Upload Iqamah audio 
   - Adjustable Iqamah Times
   - Show Iqamah times under each prayer
-- Custom Calculation Methods
+- Calculation Methods
 - Madhab (Asr Calculations)
 - Adjust (Fajr & Isha (High))-Latitude (Angle Based, Middle of the night, 1/7 of the night)
 - Do Not Disturb Jummah
