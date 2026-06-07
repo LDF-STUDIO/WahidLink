@@ -52,7 +52,6 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - search
 - offline mode for salah times
 - a variety of notification types
-- Format Time (12/24 hrs)
 - Supplication after Athan
 - Language Support (Localization)
 - Override Mute Button
