@@ -49,7 +49,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - duaa and dhikr
 - hadith
 - search
-- offline mode for salah times
+- offline mode for salah times (Location -advanced)
 - a variety of notification types
 - Suhoor Alarm
 - Format Time (12/24 hrs)
