@@ -55,6 +55,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - Supplication after Athan
 - Language Support (Localization)
 - Override Mute Button
+- Full played out athan for iOS
 
 ...and more!
 
