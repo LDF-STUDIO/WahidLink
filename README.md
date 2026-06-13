@@ -31,6 +31,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - Adjust (Fajr & Isha (High))-Latitude (Angle Based, Middle of the night, 1/7 of the night)
 - Do Not Disturb Jummah
 - Hijra Correction to Calendar (-3 <-> +3 days)
+- tutorial 
  
 
 ## Future Features
@@ -42,7 +43,6 @@ To help support this project, you can donate through the [Buy me coffee](https:/
  - Profiles
  - Suhoor Alarm
  - Format Time (12/24 hrs)
-- tutorial
 - Quran & player
 - fortress of the Muslim
 - 99 names of Allah 
