@@ -9,7 +9,7 @@ Try Wahidlink today - Linking you to the only One you need.
 
 You can upload custom athans to the app. Acceptable format types are: MP3, WAV, M4A, AAC. It is a proof of concept turned prototype working and ready to be tested. 
 
-If some functions are not working properly, create a new issue under Issues and follow the template linked [here](https://github.com/yhegazy/WahidLinkApp/blob/main/.github/ISSUE_TEMPLATE/bug_report.md).
+If some functions are not working properly, create a new issue under Issues and follow the template called [Mobile Bug Report[(https://github.com/yhegazy/WahidLinkApp/blob/main/.github/ISSUE_TEMPLATE/bug_report.md).
 
 To help support this project, you can donate through the [Buy me coffee](https://buymeacoffee.com/yahiahegazj) portal.
 
