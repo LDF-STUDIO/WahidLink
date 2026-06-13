@@ -8,14 +8,14 @@ The dashboard is equipped with several customizable features designed to fit you
 
 ### Time Ago & Time Until
 Tapping on any individual Salah (Prayer) Time provides a dynamic countdown. If the prayer time has already passed, it will show how much time has elapsed. 
-<div align="center"><img src="./tutorials/timeAgo.gif" alt="timeAgo" width="50%" height="50%"></div>
+<div align="center"><img src="./tutorials/timeAgo.gif" alt="timeAgo" width="75%" height="75%"></div>
 
 If the prayer is upcoming, it will display the exact time remaining until that Salah begins.
-<div align="center"><img src="./tutorials/timeUntil.gif" alt="timeUntil" width="50%" height="50%"></div>
+<div align="center"><img src="./tutorials/timeUntil.gif" alt="timeUntil" width="75%" height="75%"></div>
 
 ### Adjust Salah Times
 Long-press (press and hold for 3 seconds) on any individual Salah time to open the manual adjustment menu. This allows you to fine-tune the specific prayer time by up to +/- 45 minutes to perfectly match your local masjid. 
-<div align="center"><img src="./tutorials/AdjustPrayerTime.gif" width="50%" height="50%"></img></div>
+<div align="center"><img src="./tutorials/AdjustPrayerTime.gif" width="75%" height="75%"></img></div>
 
 ### Unlocking Qiyam
 Enabling the Enable Qiyam toggle within General Settings dynamically updates your main dashboard, adding a dedicated tracker for Qiyam immediately following the Isha prayer.
