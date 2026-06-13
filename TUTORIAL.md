@@ -23,29 +23,29 @@ Enabling the Enable Qiyam toggle within General Settings dynamically updates you
 
 ### Monthly Calendar
 The Calendar is the first icon on the bottom left of the menu. Tap it to view the prayer times for the next 30 days
-<div align="center"><img src="./tutorials/monthlyCalendar.png" alt="monthlyCalendar" width="50%" height="50%"></div>
+<div align="center"><img src="./tutorials/monthlyCalendar.png" alt="monthlyCalendar" width="75%" height="75%"></div>
 
 ### Location (Basic)
 The Location icon is the second button on the bottom menu, right next to the calendar. Tap it to open the location setup menu and update your coordinates.
-<div align="center"><img src="./tutorials/Location.png" alt="location" width="50%" height="50%"></div>
+<div align="center"><img src="./tutorials/Location.png" alt="location" width="75%" height="75%"></div>
 
 ### Qibla Compass
 The Qibla icon is the third button on the bottom menu, right next to the location icon. Tap it to open the Qibla compass and instantly find the direction of the Kaaba.
-<div align="center"><img src="./tutorials/qibla.png" alt="qibla" width="50%" height="50%"></div>
+<div align="center"><img src="./tutorials/qibla.png" alt="qibla" width="75%" height="75%"></div>
 
 ### Athan/Iqama Selection
 The Athan/Iqamah icon is the fourth button on the bottom menu, located right next to the Qibla icon.
 
 <b>Default View:</b> Out of the box, this screen allows you to select and upload your preferred Athan recitations.
-<div align="center"><img src="./tutorials/AthanSelection.png" alt="athanSelection" width="50%" height="50%"></div>
+<div align="center"><img src="./tutorials/AthanSelection.png" alt="athanSelection" width="75%" height="75%"></div>
 
 <b>Unlocking Iqamah Settings:</b> If you toggle Enable Iqamah in the General Settings, this screen expands to include both Iqamah audio selection and the Adjust Iqamah Times configuration.
-<div align="center"><img src="./tutorials/athanSelectionPlus.png" alt="athanSelectionPlus" width="50%" height="50%"></div>
-<div align="center"><img src="./tutorials/adjustIqamaTimes.png" alt="adjustIqamaTimes" width="50%" height="50%"></div>
+<div align="center"><img src="./tutorials/athanSelectionPlus.png" alt="athanSelectionPlus" width="75%" height="75%"></div>
+<div align="center"><img src="./tutorials/adjustIqamaTimes.png" alt="adjustIqamaTimes" width="75%" height="75%"></div>
 
 
 ### General Settings
 The General Settings icon is located on the far right of the bottom menu. Here, you can fully customize how your prayer times are calculated and how the app behaves:
-<div align="center"><img src="./tutorials/generalSettings.png" alt="generalSettings" width="50%" height="50%"></div>
+<div align="center"><img src="./tutorials/generalSettings.png" alt="generalSettings" width="75%" height="75%"></div>
 
     
