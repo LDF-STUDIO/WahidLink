@@ -1,38 +1,46 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+
+name: Mobile Bug Report
+about: Report a bug found on a mobile device
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Describe the Bug
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Provide a clear and concise description of the issue.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Steps to Reproduce
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+1. Open the app
+2. Navigate to '...'
+3. Tap on '...'
+4. Perform '...'
+5. Observe the issue
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Expected Behavior
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+Describe what you expected to happen.
 
-**Additional context**
-Add any other context about the problem here.
+## Actual Behavior
+
+Describe what actually happened.
+
+## Screenshots / Screen Recording
+
+If applicable, attach screenshots or a screen recording to help explain the problem.
+
+## Device Information
+
+* Device Model: [e.g. iPhone 15 Pro, Samsung Galaxy S24]
+* Operating System: [e.g. iOS 18.5, Android 15]
+* App Version: [e.g. 3.8.0]
+* Device Language: [e.g. English (US)]
+
+## Additional Information
+
+* Does the issue happen every time? [Yes/No]
+* Can you reproduce it consistently? [Yes/No]
+* Any additional details, logs, or context that may help identify the problem.
