@@ -56,6 +56,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - Language Support (Localization)
 - Override Mute Button
 - Full played out athan for iOS
+- Qasr Mode
 
 ...and more!
 
