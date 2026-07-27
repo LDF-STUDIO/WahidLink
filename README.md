@@ -31,7 +31,8 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - Adjust (Fajr & Isha (High))-Latitude (Angle Based, Middle of the night, 1/7 of the night)
 - Do Not Disturb Jummah
 - Hijra Correction to Calendar (-3 <-> +3 days)
-- tutorial 
+- tutorial
+- Full played out athan for iOS
  
 
 ## Future Features
@@ -55,7 +56,6 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - Supplication after Athan
 - Language Support (Localization)
 - Override Mute Button
-- Full played out athan for iOS
 - Qasr Mode
 
 ...and more!
