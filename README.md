@@ -22,7 +22,7 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - Upload and choose your favorite Mu'athan
 - Border highlight to denote current or upcoming salah
 - Toggle Switch to show/hide Qiyam prayer
-- Toggle on/off Iqamah Settings in Upload Menu
+- Toggle on/off Iqamah Settings in Athan Settings
   - Select or Upload Iqamah audio 
   - Adjustable Iqamah Times
   - Show Iqamah times under each prayer
@@ -63,14 +63,14 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 
 ## Privacy Policy
 
-Privacy Policy for Wahidlink
+Privacy Policy for WahidLink 
 Effective Date: June 6, 2026
 
-I provide Wahidlink as a commercial mobile application at no cost, designed to be used as-is. This Privacy Policy informs you regarding my policies with the collection, use, and disclosure of Personal Information for anyone deciding to use my service.
+I provide WahidLink as a commercial mobile application at no cost, designed to be used as-is. This Privacy Policy informs you regarding my policies with the collection, use, and disclosure of Personal Information for anyone deciding to use my service.
 
 ### Information Collection and Use
    
-I have engineered Wahidlink with a local-first architecture. I prioritize your privacy by processing all features natively on your device:
+I have engineered WahidLink with a local-first architecture. I prioritize your privacy by processing all features natively on your device:
 
 - No Server Storage: I do not collect, harvest, transmit, or store any personal data, account information, or location profiles on external servers.
 
@@ -100,4 +100,4 @@ I may update my Privacy Policy from time to time. You are advised to review this
 
 ### Contact Me
    
-If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at: wahidlink.app@gmail.com
+If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at: questions@ldf.studio
