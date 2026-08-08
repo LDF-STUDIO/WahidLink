@@ -32,8 +32,8 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - Do Not Disturb Jummah
 - Hijra Correction to Calendar (-3 <-> +3 days)
 - tutorial
-- Full played out athan for iOS
- 
+- First of its kind -> Full played out athan for iOS
+- a variety of notification types
 
 ## Future Features
 - Themes
@@ -52,7 +52,6 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 - hadith
 - search
 - offline mode for salah times
-- a variety of notification types
 - Supplication after Athan
 - Language Support (Localization)
 - Override Mute Button
