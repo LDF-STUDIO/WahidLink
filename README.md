@@ -63,8 +63,8 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 
 ## Privacy Policy
 
-Privacy Policy for WahidLink 
-Effective Date: June 6, 2026
+Privacy Policy for WahidLink <br>
+Effective Date: June 6, 2026 </br>
 Updated Date: August 14th, 2026 (Minor grammatical and wording updates)
 
 We provide WahidLink as a commercial mobile application at no cost, designed to be used as-is. This Privacy Policy informs you regarding our policies with the collection, use, and disclosure of Personal Information for anyone deciding to use our service.
