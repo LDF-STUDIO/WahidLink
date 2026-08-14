@@ -65,14 +65,15 @@ To help support this project, you can donate through the [Buy me coffee](https:/
 
 Privacy Policy for WahidLink 
 Effective Date: June 6, 2026
+Updated Date: August 14th, 2026 (Minor grammatical and wording updates)
 
-I provide WahidLink as a commercial mobile application at no cost, designed to be used as-is. This Privacy Policy informs you regarding my policies with the collection, use, and disclosure of Personal Information for anyone deciding to use my service.
+We provide WahidLink as a commercial mobile application at no cost, designed to be used as-is. This Privacy Policy informs you regarding our policies with the collection, use, and disclosure of Personal Information for anyone deciding to use our service.
 
 ### Information Collection and Use
    
-I have engineered WahidLink with a local-first architecture. I prioritize your privacy by processing all features natively on your device:
+We have engineered WahidLink with a local-first architecture. We prioritize your privacy by processing all features natively on your device:
 
-- No Server Storage: I do not collect, harvest, transmit, or store any personal data, account information, or location profiles on external servers.
+- No Server Storage: We do not collect, harvest, transmit, or store any personal data, account information, or location profiles on external servers.
 
 - Local Persistence: Data such as your custom calculation preferences, daily audio tracking metrics, and custom time offsets are stored strictly on your local device storage using encrypted system preferences (AsyncStorage).
 
@@ -80,24 +81,24 @@ I have engineered WahidLink with a local-first architecture. I prioritize your p
    
 To deliver core utility features, the application requires specific native platform permissions. These are processed completely offline:
 
-- Approximate/Fine Location: Required strictly to dynamically compute solar positions and geographic calculation methods relative to your current location. This calculation occurs entirely on-device; location data is never transmitted over the network by my application.
+- Approximate/Fine Location: Required strictly to dynamically compute solar positions and geographic calculation methods relative to your current location. This calculation occurs entirely on-device; location data is never transmitted over the network by our application.
 
 - Background Audio & System Alarms: Utilized to manage background audio triggers and alert systems without introducing background thread blocks.
 
 ### Third-Party Services and Analytics
    
-- No Analytics/Tracking: I do not include tracking SDKs, marketing wrappers, or third-party analytical frameworks (such as Google Analytics or Firebase Tracking).
+- No Analytics/Tracking: We do not include tracking SDKs, marketing wrappers, or third-party analytical frameworks (such as Google Analytics or Firebase Tracking).
 
 - Data Transmission: The app does not transmit your usage behaviors, telemetry metadata, or interaction counters to third-party entities.
 
 ### Children’s Privacy
    
-   My services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children. Since all data remains isolated on your physical hardware, no information is accessible to me or any third-party servers.
+   Our services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children. Since all data remains isolated on your physical hardware, no information is accessible to us or any third-party servers.
 
 ### Changes to This Privacy Policy
    
-I may update my Privacy Policy from time to time. You are advised to review this page periodically for any changes. I will notify you of any modifications by posting the updated Privacy Policy directly on this page.
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. We will notify you of any modifications by posting the updated Privacy Policy directly on this page.
 
-### Contact Me
+### Contact Us
    
-If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at: hello@ldf.studio
+If you have any questions or suggestions regarding our Privacy Policy, do not hesitate to contact us at: hello@ldf.studio
