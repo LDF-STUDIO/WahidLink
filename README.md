@@ -100,4 +100,4 @@ I may update my Privacy Policy from time to time. You are advised to review this
 
 ### Contact Me
    
-If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at: questions@ldf.studio
+If you have any questions or suggestions regarding my Privacy Policy, do not hesitate to contact me at: hello@ldf.studio
