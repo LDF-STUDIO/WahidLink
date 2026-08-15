@@ -48,7 +48,7 @@ Once enabled and after you configure your offsets in the Adjust Iqamah Times pan
 
 ### General Settings
 The General Settings icon is located on the far right of the bottom menu. Here, you can  fully customize how your prayer times are calculated and how the app behaves:
-<div align="center"><img src="./tutorials/generalSettings.png" alt="generalSettings" ></div>
+<div align="center"><img src="./tutorials/generalSettings.png" alt="generalSettings" width="50%" height="50%"></div>
 
 
 ## Differences between Android and iOS
@@ -59,12 +59,15 @@ We're proud to introduce the first iOS Salah app with fully functional Athan aud
 **Powered by:** AlarmKit
 
 ### Upload an Athan or an Iqamah
-Want to upload your own muezzin? This feature is currently supported on **Android**
+Uploading a custom muezzin is currently supported on Android exclusively.
 
 ### Iqamah Audio Selection 
-The dropdown to choose an Iqamah from a muezzin is currently an **Android-only** feature at this time.
+Iqamah selection from a muezzin's audio set is available on Android only.
 
-### Volume, Mute and Off
+### Mute on Jummah
+This feature behaves differently on each platform. 
+- On iOS, the volume is turned off and no notification is displayed.
+- On Android, the volume is muted but a notification still appears
 
 
     
