@@ -37,17 +37,34 @@ The Qibla icon is the third button on the bottom menu, right next to the locatio
 The Athan/Iqamah icon is the fourth button on the bottom menu, located right next to the Qibla icon.
 
 <b>Default View:</b> Out of the box, this screen allows you to select and upload your preferred Athan recitations.
-<div align="center"><img src="./tutorials/AthanSelection.png" alt="athanSelection" ></div>
+<div align="center"><img src="./tutorials/AthanSelection.png" alt="athanSelection" width="50%" height="50%"></div>
 
-<b>Unlocking Iqamah Settings:</b> If you toggle Enable Iqamah in the General Settings, this screen expands to include both Iqamah audio selection and the Adjust Iqamah Times configuration.
-<!-- <div align="center"><img src="./tutorials/athanSelectionPlus.png" alt="athanSelectionPlus" ></div> -->
-<div align="center"><img src="./tutorials/adjustIqamaTimes.png" alt="adjustIqamaTimes" ></div>
+<b>Unlocking Iqamah Settings:</b> If you toggle Enable Iqamah in the Athan Settings, this screen expands to include both Iqamah audio selection and the Adjust Iqamah Times configuration.
+<div align="center"><img src="./tutorials/athanSelectionPlus.png" alt="athanSelectionPlus" width="50%" height="50%"></div>
+
 
 Once enabled and after you configure your offsets in the Adjust Iqamah Times panel, each individual Iqamah time will display right below its corresponding prayer on the main dashboard.
 <div align="center"><img src="./tutorials/IqamahTime.png" alt="iqamahTimes" ></div>
 
 ### General Settings
-The General Settings icon is located on the far right of the bottom menu. Here, you can fully customize how your prayer times are calculated and how the app behaves:
+The General Settings icon is located on the far right of the bottom menu. Here, you can  fully customize how your prayer times are calculated and how the app behaves:
 <div align="center"><img src="./tutorials/generalSettings.png" alt="generalSettings" ></div>
+
+
+## Differences between Android and iOS
+
+### Athan Audio for iOS
+We're proud to introduce the first iOS Salah app with fully functional Athan audio. 
+**Minimum iOS version:** iOS 26.
+**Powered by:** AlarmKit
+
+### Upload an Athan or an Iqamah
+Want to upload your own muezzin? This feature is currently supported on **Android**
+
+### Iqamah Audio Selection 
+The dropdown to choose an Iqamah from a muezzin is currently an **Android-only** feature at this time.
+
+### Volume, Mute and Off
+
 
     
