@@ -33,14 +33,14 @@ The Location icon is the second button on the bottom menu, right next to the cal
 The Qibla icon is the third button on the bottom menu, right next to the location icon. Tap it to open the Qibla compass and instantly find the direction of the Kaaba.
 <div align="center"><img src="./tutorials/qibla.png" alt="qibla"></div>
 
-### Athan/Iqama Selection
+### Athan Settings
 The Athan/Iqamah icon is the fourth button on the bottom menu, located right next to the Qibla icon.
 
 <b>Default View:</b> Out of the box, this screen allows you to select and upload your preferred Athan recitations.
 <div align="center"><img src="./tutorials/AthanSelection.png" alt="athanSelection" ></div>
 
 <b>Unlocking Iqamah Settings:</b> If you toggle Enable Iqamah in the General Settings, this screen expands to include both Iqamah audio selection and the Adjust Iqamah Times configuration.
-<div align="center"><img src="./tutorials/athanSelectionPlus.png" alt="athanSelectionPlus" ></div>
+<!-- <div align="center"><img src="./tutorials/athanSelectionPlus.png" alt="athanSelectionPlus" ></div> -->
 <div align="center"><img src="./tutorials/adjustIqamaTimes.png" alt="adjustIqamaTimes" ></div>
 
 Once enabled and after you configure your offsets in the Adjust Iqamah Times panel, each individual Iqamah time will display right below its corresponding prayer on the main dashboard.
