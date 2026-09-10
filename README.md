@@ -33,6 +33,7 @@ If some functions are not working properly, create a new issue under Issues and 
 - tutorial
 - First of its kind -> Full played out athan for iOS
 - a variety of notification types
+- Masjid Locator 
 
 ## Future Features
 - Themes
@@ -56,6 +57,10 @@ If some functions are not working properly, create a new issue under Issues and 
 - Override Mute Button
 - Qasr Mode
 - Widgets 
+- Contribute to Masjid Locator 
+- Save to Favorite Masjid Location 
+- Shurooq Mode
+- Marketplace 
 
 ...and more!
 
