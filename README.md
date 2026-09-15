@@ -81,7 +81,7 @@ We have engineered WahidLink with a local-first architecture. We prioritize your
 
 - No Server Storage: We do not collect, harvest, transmit, or store any personal data, account information, or location profiles on external servers.
 
-- Local Persistence: Data such as your custom calculation preferences, daily audio tracking metrics, and custom time offsets are stored strictly on your local device storage using encrypted system preferences (AsyncStorage).
+- Local Persistence: Data such as your custom calculation preferences, daily audio tracking metrics, and custom time offsets are stored strictly on your local device storage using system preferences (AsyncStorage).
 
 ### Device Permissions and Core Frameworks
    
