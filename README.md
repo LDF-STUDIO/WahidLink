@@ -60,6 +60,7 @@ If some functions are not working properly, create a new issue under Issues and 
 - Contribute to Masjid Locator 
 - Save to Favorite Masjid Location 
 - Shurooq Mode
+- menses tracker
 - Marketplace 
 
 ...and more!
