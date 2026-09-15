@@ -69,9 +69,11 @@ If some functions are not working properly, create a new issue under Issues and 
 
 Privacy Policy for WahidLink <br>
 Effective Date: June 6, 2026 </br>
-Updated Date: August 14th, 2026 (Minor grammatical and wording updates)
+Updated Date: September 13th, 2026 
 
-We provide WahidLink as a commercial mobile application at no cost, designed to be used as-is. This Privacy Policy informs you regarding our policies with the collection, use, and disclosure of Personal Information for anyone deciding to use our service.
+LDF STUDIO ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use the WahidLink mobile application (the "App"). We have engineered WahidLink with a local-first architecture, meaning your data stays on your device — not on our servers.
+
+By using WahidLink, you agree to the practices described in this policy. If you do not agree, please discontinue use of the App.
 
 ### Information Collection and Use
    
