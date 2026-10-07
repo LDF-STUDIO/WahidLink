@@ -34,6 +34,11 @@ If some functions are not working properly, create a new issue under Issues and 
 - First of its kind -> Full played out athan for iOS
 - a variety of notification types
 - Masjid Locator 
+- Ramadan Mode (Suhoor alarm and taraweeh reminder) 
+- Shurooq Mode
+- Supplication after Athan
+- Tutorials (basic)
+
 
 ## Future Features
 - Themes
@@ -42,7 +47,6 @@ If some functions are not working properly, create a new issue under Issues and 
     - Different CSS Themes
     - Customize your own theme
  - Profiles
- - Suhoor Alarm
  - Format Time (12/24 hrs)
 - Quran & player
 - fortress of the Muslim
@@ -52,14 +56,12 @@ If some functions are not working properly, create a new issue under Issues and 
 - hadith
 - search
 - offline mode for salah times
-- Supplication after Athan
 - Language Support (Localization)
 - Override Mute Button
 - Qasr Mode
 - Widgets 
 - Contribute to Masjid Locator 
 - Save to Favorite Masjid Location 
-- Shurooq Mode
 - menses tracker
 - Marketplace 
 
